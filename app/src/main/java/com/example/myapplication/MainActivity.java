@@ -11,5 +11,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         // 이귀봉이가 git을 테스트 하고 있어요.
+        // 그러게
     }
 }
